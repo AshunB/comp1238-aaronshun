@@ -11,3 +11,8 @@
 -Modules
 -Sleep
 
+
+
+- [GitHub Pages](https://pages.github.com/)
+- [Brightspace GBC](https://learn.georgebrown.ca/d2l/home)
+- [D2L GBC COMP1238](https://learn.georgebrown.ca/d2l/home/291663)

@@ -26,7 +26,7 @@ $ - dollar sign
 & - ampersand
 * - asterisk
 () - parenthesis
-- - hyphen/dash
+|- - hyphen/dash|
 _ - underscore
 + - plus sing
 = - equal sign
@@ -36,7 +36,7 @@ _ - underscore
 ' - single quotation mark
 ? - question mark
 / - slash
-| - vertical sign
+|| - vertical sign|
 \ - backslash
 [] - brackets
 {} - curly brackets 

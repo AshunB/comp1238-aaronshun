@@ -14,32 +14,35 @@ My Favorite things to do:
 ---
 
 #Number Row Characters#
-|-------------|
-~ - tilde
-` - backtick
-! - exclamation mark
-@ - commercial at
-# - hash
-$ - dollar sign
-% - percentage sign
-^ - caret symbol
-& - ampersand
-* - asterisk
-() - parenthesis
-|- - hyphen/dash|
-_ - underscore
-+ - plus sing
-= - equal sign
-<> - chevron brackets
-:; - colon/semi-colon
-" - quotation mark
-' - single quotation mark
-? - question mark
-/ - slash
-|| - vertical sign|
-\ - backslash
-[] - brackets
-{} - curly brackets 
+
+| Character | Description             |
+|-----------|-------------------------|
+| `~`       | tilde                   |
+| `` ` ``   | backtick                |
+| `!`       | exclamation mark        |
+| `@`       | commercial at           |
+| `#`       | hash                    |
+| `$`       | dollar sign             |
+| `%`       | percentage sign         |
+| `^`       | caret symbol            |
+| `&`       | ampersand               |
+| `*`       | asterisk                |
+| `()`      | parenthesis             |
+| `-`       | hyphen/dash             |
+| `_`       | underscore              |
+| `+`       | plus sign               |
+| `=`       | equal sign              |
+| `<>`      | chevron brackets        |
+| `:`       | colon                   |
+| `;`       | semi-colon              |
+| `"`       | quotation mark          |
+| `'`       | single quotation mark   |
+| `?`       | question mark           |
+| `/`       | slash                   |
+| `||`      | vertical bar            |
+| `\`       | backslash               |
+| `[]`      | brackets                |
+| `{}`      | curly brackets          |
 
 ---
 

@@ -41,7 +41,7 @@ Hello! My name is Aaron Shun Balayo and welcome to my first README
 | `'`       | single quotation mark   |
 | `?`       | question mark           |
 | `/`       | slash                   |
-| `||`      | vertical bar            |
+| `|`       | vertical bar            |
 | `\`       | backslash               |
 | `[]`      | brackets                |
 | `{}`      | curly brackets          |

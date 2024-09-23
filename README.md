@@ -57,6 +57,24 @@ Hello! My name is Aaron Shun Balayo and welcome to my first README
 
 ---
 
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-D (show desktop)
+- Win-R (opens run tab in windows)
+- Ctrl-Y (redo)
+- Ctrl-Shift-B (closes bookmarks bar on browser)
+- Ctrl-F (find button)
+- Ctrl-alt-del (closes app/reboots OS)
+
+
+---
+
 **MY OLD WEBSITE**
 
 <img src= "https://i.ytimg.com/vi/y5C59YnTQAI/mqdefault.jpg">
@@ -64,4 +82,10 @@ Hello! My name is Aaron Shun Balayo and welcome to my first README
 
 [Click HERE!!!](https://boogerballs.netlify.app/)
 
+
+---
+
+Screenshots:
+
+<src img="https://imgur.com/a/LjSiGs3", width 500>   |   <src img="https://imgur.com/a/zlFN2SF", width 500>
 

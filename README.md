@@ -6,6 +6,8 @@
 
 Hello! My name is Aaron Shun Balayo and welcome to my first README
 
+<img src="https://i.ytimg.com/vi/kCmg9zVS4rU/maxresdefault.jpg" width= 300>
+
 ## My Favorite things to do:
 - Eat
 - Code
@@ -87,5 +89,5 @@ Shortcuts I would like to start using:
 
 Screenshots:
 
-<src img="https://imgur.com/a/LjSiGs3", width 500>   |   <src img="https://imgur.com/a/zlFN2SF", width 500>
+[Part1](https://imgur.com/a/LjSiGs3) |  [Part2](https://imgur.com/a/zlFN2SF)
 

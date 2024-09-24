@@ -18,7 +18,7 @@ Hello! My name is Aaron Shun Balayo and welcome to my first README
 
 ---
 
-#Number Row Characters#
+##Number Row Characters
 
 | Character | Description             |
 |-----------|-------------------------|

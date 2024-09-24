@@ -18,7 +18,7 @@ Hello! My name is Aaron Shun Balayo and welcome to my first README
 
 ---
 
-##Number Row Characters
+## Number Row Characters
 
 | Character | Description             |
 |-----------|-------------------------|
@@ -51,7 +51,7 @@ Hello! My name is Aaron Shun Balayo and welcome to my first README
 
 ---
 
-#Links#
+## Links
 
 - [GitHub Pages](https://pages.github.com/)
 - [Brightspace GBC](https://learn.georgebrown.ca/d2l/home)

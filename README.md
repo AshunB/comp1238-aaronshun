@@ -92,3 +92,6 @@ Screenshots:
 
 [Part1](https://imgur.com/a/LjSiGs3) |  [Part2](https://imgur.com/a/zlFN2SF)
 
+## Second Page
+
+You can visit the second page [BUTTOON](./pagetoototot.html).

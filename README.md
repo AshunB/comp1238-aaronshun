@@ -94,4 +94,17 @@ Screenshots:
 
 ## Second Page
 
-You can visit the second page [BUTTOON](./pagetoototot.html).
+<p>You can visit the second page:</p>
+
+<a href="./cfg.md" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #28a745;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #28a745;
+    font-family: 'Comic Sans MS', cursive;">
+  BUTTOON
+</a>

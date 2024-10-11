@@ -1,48 +1,4 @@
-<style>
-  body {
-    background-color: #ffeb3b;
-    color: #3f51b5;
-    font-family: 'Comic Sans MS', cursive, sans-serif;
-    text-align: center;
-  }
-
-  h1 {
-    font-size: 3em;
-    text-shadow: 2px 2px #ff4081;
-  }
-
-  .cfg-container {
-    padding: 20px;
-    border: 5px dashed #ff5722;
-    border-radius: 15px;
-    margin: 20px auto;
-    max-width: 800px;
-    background-color: #ffffff;
-  }
-
-  img {
-    max-width: 100%;
-    height: auto;
-    margin: 10px;
-    border: 2px solid #3f51b5;
-    border-radius: 10px;
-  }
-
-  a {
-    color: #ff4081;
-    text-decoration: none;
-    font-weight: bold;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-
-  .fun-gif {
-    width: 300px;
-    margin-top: 20px;
-  }
-</style>
+## figs
 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">

@@ -1,5 +1,44 @@
-## figs
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>figs</title>
+  <link rel="stylesheet" href="https://unpkg.com/dark-poole@1.1.0/css/dark-poole.min.css">
+<style>
+  body {
+      background-color: #1c1c1c; /* Dark background */
+      color: #ffffff; /* Light text color */
+      font-family: 'Arial', sans-serif; /* Change to a more neutral font */
+    }
+    a {
+      color: #39b54a; /* Green link color */
+    }
+    a:hover {
+      text-decoration: underline; /* Underline links on hover */
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      color: white;
+      background-color: #28a745;
+      text-decoration: none;
+      border-radius: 5px;
+      border: 1px solid #28a745;
+      font-family: 'Comic Sans MS', cursive;
+    }
+    </style>
 
+</head>
+
+
+<body>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <img src="https://static.vecteezy.com/system/resources/previews/002914/105/original/red-fig-fig-png.png" width="300" alt="Fig Image 1">
@@ -55,5 +94,20 @@ div style="align-items: center; width: 300px;">
 
   <br>
 
-  Go back <a href="./pagetootoot.html">button</a>
+  <p>Go back</p> <a href="./figs.md" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #28a745;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #28a745;
+    font-family: 'Comic Sans MS', cursive;">
+  BUTTOON
+</a>
+
 </div>
+  
+</body>
+</html>

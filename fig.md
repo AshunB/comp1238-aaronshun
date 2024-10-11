@@ -1,8 +1,3 @@
-## Config
----
-layout: default
----
-
 <style>
   body {
     background-color: #ffeb3b;

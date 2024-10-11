@@ -96,7 +96,7 @@ Screenshots:
 
 <p>You can visit the second page:</p>
 
-<a href="https://ashunb.github.io/comp1238-aaronshun/pagetoototot.html" style="
+<a href="https://ashunb.github.io/comp1238-aaronshun/pagetootoot.html" style="
     display: inline-block;
     padding: 10px 20px;
     font-size: 16px;

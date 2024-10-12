@@ -1,4 +1,3 @@
----
 title: COMP1238 LAB WK04
 theme: jekyll-theme-leap-day
 layout: default
